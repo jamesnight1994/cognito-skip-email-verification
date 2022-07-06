@@ -1,4 +1,4 @@
-auto verify user on congito
+// auto verify user on congito
 exports.handler = (event, context, callback) => {
     
     // Confirm the user
